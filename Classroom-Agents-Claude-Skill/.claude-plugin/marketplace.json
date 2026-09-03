@@ -1,7 +1,0 @@
-{
-  "name": "smu-guildhall-classroom-agents",
-  "owner": { "name": "Levi Sterling" },
-  "plugins": [
-    { "name": "classroom-agents", "source": "./classroom-agents" }
-  ]
-}
